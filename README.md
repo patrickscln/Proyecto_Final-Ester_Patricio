@@ -19,3 +19,4 @@ La estructura que queremos que tenga este repositorio es la siguiente:
     ├── results           <- Clean and analyzes data bases.  
     |  
     └── src               <- Coding files.  
+test
