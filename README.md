@@ -4,17 +4,17 @@
 
 ![](https://elceo.com/wp-content/uploads/2022/11/buen-fin.jpg "BF")
 
-El buen fin nació con referencia del #BlackFriday como una estrategia gubernamental para reactivar la economía. En México este evento comercial realiza en noviembre y tiene repercusiones en las decisiones de compra de millones de familias. Nuestro objetivo es encontrar que se dice en la red Social Twitter sobre este evento. 
+### 1. El buen fin nació con referencia del #BlackFriday como una estrategia gubernamental para reactivar la economía. En México este evento comercial realiza en noviembre y tiene repercusiones en las decisiones de compra de millones de familias. Nuestro objetivo es encontrar que se dice en la red Social Twitter sobre este evento. 
 
-**Resumen de resultados:**
+### 2. **Resumen de resultados:**
 - Se analizaron 100k tweets
 - Se puede concluir que el uso del #BuenFin se intensifica en el mes de noviembre
 - Las palabras mas relevantes fueron BuenFin, Semana, Oferta, Compra, Descuento, Dinero, Profeco entre otras.
 - 
 
+**3. Enlace a Resultados de tallados:**
 
-
-
+**4. Enlace al notebook de jupyter:**
 
 ### Este repositorio está estructurado de la siguiente manera: 
 
