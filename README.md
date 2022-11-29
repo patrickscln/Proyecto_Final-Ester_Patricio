@@ -1,4 +1,4 @@
-# Análisis de Tweets en Python del #Bienfin
+# Análisis de Tweets en Python del #Buenfin
 
 ## Este repositorio tiene como objetivo analizar los Tweets referentes al tema del Buenfin.
 
