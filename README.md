@@ -13,8 +13,11 @@
 - 
 
 **3. Enlace a Resultados de tallados:**
+    -[Resultados](https://github.com/patrickscln/Proyecto_Final-Ester_Patricio/tree/main/results)
 
 **4. Enlace al notebook de jupyter:**
+    -[Notebook](https://github.com/patrickscln/Proyecto_Final-Ester_Patricio/tree/main/src)
+
 
 ### Este repositorio está estructurado de la siguiente manera: 
 
@@ -31,4 +34,8 @@
     ├── doc               <- Archivo del proyecto.  
     |  
     ├── results           <- Bases de datos limpias y analizadas.  
+    
+    **Referencias**
+    
+    
 
