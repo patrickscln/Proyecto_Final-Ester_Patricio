@@ -1,22 +1,41 @@
-# Estructura de repositorio
+# Análisis de Tweets en Python del #Bienfin
 
-El objetivo de este repositorio es implementar las buenas prácticas de acuerdo al paper ["Good Enough Practices in Scientific Computing"](https://arxiv.org/abs/1609.00037) por Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, Tracy K. Teal.
+## Este repositorio tiene como objetivo analizar los Tweets referentes al tema del Buenfin.
 
-La estructura que queremos que tenga este repositorio es la siguiente:
+![](https://elceo.com/wp-content/uploads/2022/11/buen-fin.jpg "BF")
+
+### 1. El buen fin nació con referencia del #BlackFriday como una estrategia gubernamental para reactivar la economía. En México este evento comercial realiza en noviembre y tiene repercusiones en las decisiones de compra de millones de familias. Nuestro objetivo es encontrar que se dice en la red Social Twitter sobre este evento. 
+
+### 2. **Resumen de resultados:**
+- Se analizaron 100k tweets
+- Se puede concluir que el uso del #BuenFin se intensifica en el mes de noviembre
+- Las palabras mas relevantes fueron BuenFin, Semana, Oferta, Compra, Descuento, Dinero, Profeco entre otras.
+- 
+
+**3. Enlace a Resultados de tallados:**
+    -[Resultados](https://github.com/patrickscln/Proyecto_Final-Ester_Patricio/tree/main/results)
+
+**4. Enlace al notebook de jupyter:**
+    -[Notebook](https://github.com/patrickscln/Proyecto_Final-Ester_Patricio/tree/main/src)
+
+
+### Este repositorio está estructurado de la siguiente manera: 
 
     ├── LICENSE           <- MIT License.  
     |  
-    ├── README.md         <- Main Readme file with the description of the project.  
+    ├── README.md         <- Readme con la información del proyecto  
     |  
-    ├── CONTRIBUTING.md   <- Steps yo contribute to the project.  
+    ├── CONTRIBUTING.md   <- Pasos para contribuir en el proyecto  
     |  
-    ├── CITATION.md       <- Way to cite the project.  
+    ├── CITATION.md       <- Forma de citar el proyecto.  
     |  
-    ├── data              <- Original data bases.  
+    ├── data              <- Base de datos original.  
     |  
-    ├── doc               <- Archivos de texto.  
+    ├── doc               <- Archivo del proyecto.  
     |  
-    ├── results           <- Clean and analyzes data bases.  
-    |  
-    └── src               <- Coding files.  
-test
+    ├── results           <- Bases de datos limpias y analizadas.  
+    
+    **Referencias**
+    
+    
+
